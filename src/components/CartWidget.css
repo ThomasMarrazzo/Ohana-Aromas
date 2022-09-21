@@ -1,0 +1,11 @@
+.container svg{
+    color: white;
+    font-size: 20px;
+    margin-left: 10px;
+}
+.nav{
+    background-color: rgb(166, 77, 124);
+}
+.li{
+    color: rgba(255, 255, 255, 0.993);
+}
